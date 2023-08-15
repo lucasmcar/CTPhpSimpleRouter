@@ -2,7 +2,7 @@
     "name": "cht/phpsimpleroute",
     "description": "A route system for CHT Framework",
     "license": "MIT",
-    "version": "1.0.0",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Cht\\Simpleroute\\": "App/"
