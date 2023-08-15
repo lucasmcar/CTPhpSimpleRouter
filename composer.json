@@ -1,0 +1,16 @@
+{
+    "name": "cht/simpleroute",
+    "description": "A route system for CHT Framework",
+    "autoload": {
+        "psr-4": {
+            "Cht\\Simpleroute\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucasmcar",
+            "email": "lmc.lucas90@gmail.com"
+        }
+    ],
+    "require": {}
+}
